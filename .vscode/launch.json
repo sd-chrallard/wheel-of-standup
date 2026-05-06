@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter Web (Chrome)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "chrome"
+    },
+    {
+      "name": "Flutter Web (Web Server)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "web-server"
+    },
+    {
+      "name": "Flutter (Auto Device)",
+      "request": "launch",
+      "type": "dart"
+    }
+  ]
+}
