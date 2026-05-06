@@ -11,7 +11,7 @@ Spin the wheel of standup! A Flutter web application for managing and spinning a
 
 ## Live Demo
 
-Visit the [live application on GitHub Pages](https://github.com/yourusername/wheel-of-standup/deployments/github-pages)
+Visit the [live application on GitHub Pages](https://sd-chrallard.github.io/wheel-of-standup/)
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ Visit the [live application on GitHub Pages](https://github.com/yourusername/whe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wheel-of-standup.git
+   git clone https://github.com/sd-chrallard/wheel-of-standup.git
    cd wheel-of-standup
    ```
 
